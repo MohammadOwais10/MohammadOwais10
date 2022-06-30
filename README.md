@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mohammad-owais-555317201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammad-owais-555317201" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohammad-owais-555317201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammad-owais-555317201" height="30" width="40" /></a>&nbsp;
   
  <a href="mailto:owais0945@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mohammadowais10" height="30" width="30" />
@@ -39,16 +39,16 @@
 </p>
 
 <p align="center">
-<table hide_border=true">
+<table>
 <tr>
   
   <td>
-  <a href="https://github.com/MohammadOwais10"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadOwais10&theme=great-gatsby&show_icons=true&locale=en&hide_border=true"" height="200rem" alt="MohammadOwais10" /></a> 
+  <a href="https://github.com/MohammadOwais10"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadOwais10&theme=great-gatsby&show_icons=true&locale=en&hide_border=true"" height="170rem" alt="MohammadOwais10" /></a> 
   </a>
   </td>
   
   <td>
-  <a href="https://github.com/MohammadOwais10"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadOwais10&theme=great-gatsby&show_icons=true&locale=en&layout=compact&hide_border=true"" height="200rem" alt="MohammadOwais10" /></a>
+  <a href="https://github.com/MohammadOwais10"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadOwais10&theme=great-gatsby&show_icons=true&locale=en&layout=compact&hide_border=true"" height="170rem" alt="MohammadOwais10" /></a>
   </td>
   
 </tr>
