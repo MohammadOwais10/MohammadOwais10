@@ -45,10 +45,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MohammadOwais10&theme=gruvbox-light&hide_border=true&card_width=690)](https://git.io/streak-stats)
 -->
 
-![Mohammad Owais's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadOwais10&theme=solarized)
-<a href="https://github.com/MohammadOwais10"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadOwais10&layout=compact&title_color=ebdbb2&bg_color=f9f5d7&text_color=333336&hide_border=true" height="200rem" alt="MohammadOwais10" /></a>
+![Mohammad Owais's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammadOwais10&theme=gruvbox)
+<a href="https://github.com/MohammadOwais10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadOwais10&layout=compact&title_color=ebdbb2&bg_color=282828&text_color=ebdbb2&hide_border=true" height="200rem" alt="MohammadOwais10" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohammadOwais10&theme=gruvbox-light&hide_border=true&card_width=710)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohammadOwais10&theme=dark&hide_border=true&card_width=710)](https://git.io/streak-stats)
 
 <!-- 
 <p align="center">
