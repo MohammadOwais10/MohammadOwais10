@@ -9,11 +9,8 @@
 - 🎨 Passionate UI Developer, adept at translating Figma designs into code
 
 <h3 align="left">Connect with me:</h3>
-
-  - The best way to reach me is 
-<a href="https://www.linkedin.com/in/mohammad-owais-555317201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammad-owais-555317201" height="25" width="25" /></a>&nbsp;
- - You can also send me an email at
-<a href="mailto:owais0945@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mohammadowais10" height="25" width="25" /> </a>
+<a href="https://www.linkedin.com/in/MohammadOwais10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammad-owais-555317201" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="mailto:owais0945@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mohammadowais10" height="35" width="35" /> </a>
 
 </p>
 
